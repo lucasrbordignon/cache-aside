@@ -27,7 +27,7 @@ node-cache-aside
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/lucasrbordignon/node-cache-aside.git
+   git clone https://github.com/lucasrbordignon/cache-aside.git
    cd node-cache-aside
    ```
 
